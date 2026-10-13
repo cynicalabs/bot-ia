@@ -1,0 +1,16 @@
+{
+  "name": "absolut-society-discord-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bot Discord com GPT-4o-mini, conversões de Robux e verificação de elegibilidade Roblox",
+  "main": "discord-bot.js",
+  "scripts": {
+    "start": "node discord-bot.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0"
+  }
+}
